@@ -1,0 +1,8 @@
+# Todo
+Todo-1: Get A hold of 2 random items from the list. Call it A and B
+Todo-2: Because a Dict is nested within the list, Access the value of the Name, Description and Country Keys, display this to the user
+Todo-3: Ask the user to pick who they think has the most followers from the two randomly selected.
+Todo-4: Check if the answered correctly and then make the previous B, A and select a new B from the list.
+Todo-5: If the answered correctly keep track of their score and increment it.
+Todo-6: If they are wrong tell them they were wrong and display their final score to them.
+Todo-7: The program should keep going until they select the wrong answer.
